@@ -71,4 +71,5 @@ while True:
 
     except ValueError:
         print("Entrada inválida. Por favor, digite um NÚMERO para a opção do menu.")
-        continue # Pula para a próxima iteração do loop, exibindo o menu novamente.
+        continue 
+    
